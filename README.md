@@ -9,7 +9,7 @@ This project showcases a form built with Formik in React. Formik helps with:
 - Validation & error handling  
 - Handling form submission smoothly  
 
-Formik makes building forms easier and avoids boilerplate compared to plain React forms. :contentReference[oaicite:3]{index=3}
+Formik makes building forms easier and avoids boilerplate compared to plain React forms.
 
 ## 🛠️ Installation & Setup
 
